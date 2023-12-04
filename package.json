@@ -1,11 +1,11 @@
 {
-  "name": "react-toast-notifications",
-  "version": "2.5.1",
+  "name": "@jberry/react-toast-notifications",
+  "version": "3.0.0",
   "description": "A configurable, composable, toast notification system for react.",
   "main": "dist/index.js",
   "typings": "./index.d.ts",
   "license": "MIT",
-  "author": "Joss Mackison (https://github.com/jossmac)",
+  "author": "Jonathan Berry forked from Joss Mackison (https://github.com/jossmac)",
   "homepage": "https://jossmac.github.io/react-toast-notifications",
   "repository": {
     "type": "git",
@@ -70,7 +70,7 @@
     "webpack-dev-server": "^3.1.3"
   },
   "peerDependencies": {
-    "react": "^16.8.0 || ^17.0.0",
-    "react-dom": "^16.8.0 || ^17.0.0"
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0"
   }
 }
